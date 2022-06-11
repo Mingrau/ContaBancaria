@@ -1,0 +1,15 @@
+C:\Users\alexa\source\repos\Udemy\ExercicioContaBancaria\ExercicioContaBancaria\bin\Debug\net6.0\ExercicioContaBancaria.exe
+C:\Users\alexa\source\repos\Udemy\ExercicioContaBancaria\ExercicioContaBancaria\bin\Debug\net6.0\ExercicioContaBancaria.deps.json
+C:\Users\alexa\source\repos\Udemy\ExercicioContaBancaria\ExercicioContaBancaria\bin\Debug\net6.0\ExercicioContaBancaria.runtimeconfig.json
+C:\Users\alexa\source\repos\Udemy\ExercicioContaBancaria\ExercicioContaBancaria\bin\Debug\net6.0\ExercicioContaBancaria.dll
+C:\Users\alexa\source\repos\Udemy\ExercicioContaBancaria\ExercicioContaBancaria\bin\Debug\net6.0\ExercicioContaBancaria.pdb
+C:\Users\alexa\source\repos\Udemy\ExercicioContaBancaria\ExercicioContaBancaria\obj\Debug\net6.0\ExercicioContaBancaria.csproj.AssemblyReference.cache
+C:\Users\alexa\source\repos\Udemy\ExercicioContaBancaria\ExercicioContaBancaria\obj\Debug\net6.0\ExercicioContaBancaria.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexa\source\repos\Udemy\ExercicioContaBancaria\ExercicioContaBancaria\obj\Debug\net6.0\ExercicioContaBancaria.AssemblyInfoInputs.cache
+C:\Users\alexa\source\repos\Udemy\ExercicioContaBancaria\ExercicioContaBancaria\obj\Debug\net6.0\ExercicioContaBancaria.AssemblyInfo.cs
+C:\Users\alexa\source\repos\Udemy\ExercicioContaBancaria\ExercicioContaBancaria\obj\Debug\net6.0\ExercicioContaBancaria.csproj.CoreCompileInputs.cache
+C:\Users\alexa\source\repos\Udemy\ExercicioContaBancaria\ExercicioContaBancaria\obj\Debug\net6.0\ExercicioContaBancaria.dll
+C:\Users\alexa\source\repos\Udemy\ExercicioContaBancaria\ExercicioContaBancaria\obj\Debug\net6.0\refint\ExercicioContaBancaria.dll
+C:\Users\alexa\source\repos\Udemy\ExercicioContaBancaria\ExercicioContaBancaria\obj\Debug\net6.0\ExercicioContaBancaria.pdb
+C:\Users\alexa\source\repos\Udemy\ExercicioContaBancaria\ExercicioContaBancaria\obj\Debug\net6.0\ExercicioContaBancaria.genruntimeconfig.cache
+C:\Users\alexa\source\repos\Udemy\ExercicioContaBancaria\ExercicioContaBancaria\obj\Debug\net6.0\ref\ExercicioContaBancaria.dll
